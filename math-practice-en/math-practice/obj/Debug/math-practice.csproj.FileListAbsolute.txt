@@ -1,0 +1,7 @@
+E:\Visual Studio Project\math-practice\math-practice\bin\Debug\math-practice.exe.config
+E:\Visual Studio Project\math-practice\math-practice\bin\Debug\math-practice.exe
+E:\Visual Studio Project\math-practice\math-practice\bin\Debug\math-practice.pdb
+E:\Visual Studio Project\math-practice\math-practice\obj\Debug\math-practice.csproj.AssemblyReference.cache
+E:\Visual Studio Project\math-practice\math-practice\obj\Debug\math-practice.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\math-practice\math-practice\obj\Debug\math-practice.exe
+E:\Visual Studio Project\math-practice\math-practice\obj\Debug\math-practice.pdb
